@@ -17,9 +17,7 @@ contained follows:
 * [0x08. Networking basics #1](./0x08-networking_basics_2)
 * [0x09. Web infrastructure design](./0x09-web_infrastructure_design)
 
-## Author :black_nib:
 
-* __Anteneh Kassaw Bizuneh__ <[Anteneh2121](https://github.com/Anteneh2121)>
 
 ## Acknowledgements :pray:
 
